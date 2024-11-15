@@ -1,0 +1,21 @@
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    color: rgb(173, 98, 243);
+    text-align: center;
+padding: 30px; 
+}
+ #titre {background-color: rgb(8, 230, 8);}
+ 
+
+table {
+    margin: auto;
+   
+ border: 20;
+text-align: center;
+
+
+}
+.Grey {background-color: rgb(166, 166, 166);}
+.Pauses {background-color: yellow;}
+#Gr {background-color: rgb(166, 166, 166) (166 166, 166);}
